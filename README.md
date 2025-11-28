@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hello, I'm Muhammad Saeful Ramdan! 👋<br><br>**Full-Stack Developer | Software Engineer** based in Bogor, West Java, Indonesia.<br><br>With **advanced expertise in web programming**, I specialize in building robust, scalable applications using modern technologies and agile methodologies.<br><br>## 🛠 Tech Stack & Skills<br><br>**Backend & APIs**<br>- **PHP Ecosystem**: Native, CodeIgniter, Laravel, YII<br>- **Golang** for high-performance services<br>- **Microservices Architecture**<br>- **Message Brokers**: RabbitMQ<br>- **Databases**: PostgreSQL, MySQL, MongoDB, ClickHouse, Redis<br><br>**Frontend & Mobile**<br>- **React.js** & React Native<br>- **JavaScript/TypeScript**, jQuery<br>- **HTML5**, CSS3<br>- Responsive Web Design<br><br>**DevOps & Tools**<br>- **Docker** containerization<br>- **SCRUM/Agile** methodology<br>- Git, RESTful APIs, System Design<br><br>## 💼 Professional Highlights<br><br>- 🏢 **Portfolio**: [tecanusa.com](https://tecanusa.com)<br>- 📧 **Email**: saepulramdan244@gmail.com<br>- 📱 **WhatsApp**: +62 838-7473-1480<br>- 🌐 **Website**: [tecanusa.com](https://tecanusa.com)<br><br>## 🔥 What I Bring to Your Project<br><br>- **3 Months Post-Project Warranty** on delivered work<br>- **Clean, maintainable code** following best practices<br>- **Agile development** with SCRUM methodology<br>- **Problem-solving mindset** with attention to detail<br>- **Reliable communication** and timely delivery<br><br>## 🌱 Currently Exploring<br><br>- Advanced Microservices patterns<br>- Cloud-native architectures<br>- Performance optimization techniques<br><br>## 📫 Let's Collaborate!<br><br>I'm passionate about contributing to meaningful projects and creating solutions that make a difference. Whether it's web development, API design, or system architecture - I'm ready to help bring your vision to life.<br><br>**Reach out to discuss your project requirements!**<br><br>---<br><br>*"Bismillah, creating solutions that matter."*
 
-<!--
-**msramdan/msramdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saepulramdan244@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saepulramdan244@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saepulramdan244@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeIgniter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=plastic&logo=livewire&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoSize=auto&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=msramdan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=msramdan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=msramdan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=msramdan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
